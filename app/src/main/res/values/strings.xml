@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Volleyball Score Keeper App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="team_name">Team Name:</string>
+    <string name="team_name_hint_A">Team A</string>
+    <string name="team_name_hint_B">Team B</string>
+</resources>
